@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-11-04T01:07:29Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Esquemático_ppg"
+        },
+        "Owner": "Ignacio Godoy <ignacio.godoyf@sansano.usm.cl>",
+        "Size": {
+            "X": 73.3974,
+            "Y": 79.191
+        }
+    }
+}
